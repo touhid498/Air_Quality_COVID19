@@ -24,7 +24,8 @@ In this study we have only exploited PM2.5 and AQI data. We can work with other 
 <br/>
 <br/>
 **Project Info**<br/>
-Contributors : Md Touhidul Islam
+Contributors : Md Touhidul Islam<br/>
+Inspiration  : [Covid-19 - Before and After Quarantine](https://www.kaggle.com/fedi1996/covid-19-before-and-after-quarantine?select=covid_19_india.csv)<br/>
 <br/>
 Languages    : Python <br/>
 Tools/IDE    : Jupyter Notebook<br/>
